@@ -9,4 +9,5 @@ torch
 transformers
 sentence-transformers
 altair
-pyngrok
+gdown
+requests
